@@ -1,14 +1,14 @@
 [
   {
     "line_number": "1",
-    "smsa_name": "PROVIDENCE-WARWICK-PAWTUCKET, R.I.-MASS..",
+    "smsa_name": "PROVIDENCE-WARWICK-PAWTUCKET, R.I.-MASS.",
     "total_units": "4 449",
     "private_total": "4 449",
     "private_1_unit": "2 808",
     "private_2_units": "162",
     "private_3_4_units": "12",
     "private_5plus_units": "1 467",
-    "public_units": "35",
+    "public_units": "- ",
     "private_structures": "35",
     "total_valuation": "94 277",
     "private_valuation": "94 277",
@@ -16,7 +16,7 @@
     "private_2_units_val": "2 440",
     "private_3_4_units_val": "154",
     "private_5plus_units_val": "18 038",
-    "public_valuation": "18 038"
+    "public_valuation": "- "
   },
   {
     "line_number": "2",
@@ -27,7 +27,7 @@
     "private_2_units": "72",
     "private_3_4_units": "6",
     "private_5plus_units": "920",
-    "public_units": "21",
+    "public_units": "- ",
     "private_structures": "21",
     "total_valuation": "17 749",
     "private_valuation": "17 749",
@@ -35,7 +35,7 @@
     "private_2_units_val": "916",
     "private_3_4_units_val": "98",
     "private_5plus_units_val": "10 521",
-    "public_valuation": "10 521"
+    "public_valuation": "- "
   },
   {
     "line_number": "3",
@@ -46,7 +46,7 @@
     "private_2_units": "2",
     "private_3_4_units": "- ",
     "private_5plus_units": "309",
-    "public_units": "9",
+    "public_units": "- ",
     "private_structures": "9",
     "total_valuation": "3 572",
     "private_valuation": "3 572",
@@ -54,7 +54,7 @@
     "private_2_units_val": "28",
     "private_3_4_units_val": "- ",
     "private_5plus_units_val": "2 956",
-    "public_valuation": "2 956"
+    "public_valuation": "- "
   },
   {
     "line_number": "4",
@@ -65,7 +65,7 @@
     "private_2_units": "66",
     "private_3_4_units": "6",
     "private_5plus_units": "250",
-    "public_units": "5",
+    "public_units": "- ",
     "private_structures": "5",
     "total_valuation": "5 422",
     "private_valuation": "5 422",
@@ -73,7 +73,7 @@
     "private_2_units_val": "841",
     "private_3_4_units_val": "98",
     "private_5plus_units_val": "3 255",
-    "public_valuation": "3 255"
+    "public_valuation": "- "
   },
   {
     "line_number": "5",
@@ -84,7 +84,7 @@
     "private_2_units": "4",
     "private_3_4_units": "- ",
     "private_5plus_units": "361",
-    "public_units": "7",
+    "public_units": "- ",
     "private_structures": "7",
     "total_valuation": "8 755",
     "private_valuation": "8 755",
@@ -92,7 +92,7 @@
     "private_2_units_val": "47",
     "private_3_4_units_val": "- ",
     "private_5plus_units_val": "4 310",
-    "public_valuation": "4 310"
+    "public_valuation": "- "
   },
   {
     "line_number": "6",
@@ -103,7 +103,7 @@
     "private_2_units": "90",
     "private_3_4_units": "6",
     "private_5plus_units": "547",
-    "public_units": "14",
+    "public_units": "- ",
     "private_structures": "14",
     "total_valuation": "76 528",
     "private_valuation": "76 528",
@@ -111,7 +111,7 @@
     "private_2_units_val": "1 524",
     "private_3_4_units_val": "56",
     "private_5plus_units_val": "7 517",
-    "public_valuation": "7 517"
+    "public_valuation": "- "
   },
   {
     "line_number": "7",
@@ -122,7 +122,7 @@
     "private_2_units": "162",
     "private_3_4_units": "569",
     "private_5plus_units": "485",
-    "public_units": "27",
+    "public_units": "- ",
     "private_structures": "27",
     "total_valuation": "86 503",
     "private_valuation": "86 503",
@@ -130,7 +130,7 @@
     "private_2_units_val": "3 408",
     "private_3_4_units_val": "8 890",
     "private_5plus_units_val": "7 119",
-    "public_valuation": "7 119"
+    "public_valuation": "- "
   },
   {
     "line_number": "8",
@@ -141,7 +141,7 @@
     "private_2_units": "102",
     "private_3_4_units": "510",
     "private_5plus_units": "459",
-    "public_units": "24",
+    "public_units": "- ",
     "private_structures": "24",
     "total_valuation": "52 802",
     "private_valuation": "52 802",
@@ -149,7 +149,7 @@
     "private_2_units_val": "2 369",
     "private_3_4_units_val": "8 206",
     "private_5plus_units_val": "6 807",
-    "public_valuation": "6 807"
+    "public_valuation": "- "
   },
   {
     "line_number": "9",
@@ -160,7 +160,7 @@
     "private_2_units": "74",
     "private_3_4_units": "411",
     "private_5plus_units": "76",
-    "public_units": "5",
+    "public_units": "- ",
     "private_structures": "5",
     "total_valuation": "35 520",
     "private_valuation": "35 520",
@@ -168,7 +168,7 @@
     "private_2_units_val": "1 759",
     "private_3_4_units_val": "6 819",
     "private_5plus_units_val": "1 370",
-    "public_valuation": "1 370"
+    "public_valuation": "- "
   },
   {
     "line_number": "10",
@@ -179,7 +179,7 @@
     "private_2_units": "28",
     "private_3_4_units": "99",
     "private_5plus_units": "383",
-    "public_units": "19",
+    "public_units": "- ",
     "private_structures": "19",
     "total_valuation": "17 282",
     "private_valuation": "17 282",
@@ -187,7 +187,7 @@
     "private_2_units_val": "610",
     "private_3_4_units_val": "1 387",
     "private_5plus_units_val": "5 436",
-    "public_valuation": "5 436"
+    "public_valuation": "- "
   },
   {
     "line_number": "11",
@@ -198,7 +198,7 @@
     "private_2_units": "60",
     "private_3_4_units": "59",
     "private_5plus_units": "26",
-    "public_units": "3",
+    "public_units": "- ",
     "private_structures": "3",
     "total_valuation": "33 701",
     "private_valuation": "33 701",
@@ -206,18 +206,18 @@
     "private_2_units_val": "1 039",
     "private_3_4_units_val": "683",
     "private_5plus_units_val": "312",
-    "public_valuation": "312"
+    "public_valuation": "- "
   },
   {
     "line_number": "12",
-    "smsa_name": "PUEBLO, COLO..",
+    "smsa_name": "PUEBLO, COLO.",
     "total_units": "567",
     "private_total": "567",
     "private_1_unit": "541",
     "private_2_units": "14",
     "private_3_4_units": "- ",
     "private_5plus_units": "12",
-    "public_units": "2",
+    "public_units": "- ",
     "private_structures": "2",
     "total_valuation": "13 902",
     "private_valuation": "13 902",
@@ -225,7 +225,7 @@
     "private_2_units_val": "213",
     "private_3_4_units_val": "- ",
     "private_5plus_units_val": "100",
-    "public_valuation": "100"
+    "public_valuation": "- "
   },
   {
     "line_number": "13",
@@ -236,7 +236,7 @@
     "private_2_units": "8",
     "private_3_4_units": "- ",
     "private_5plus_units": "12",
-    "public_units": "2",
+    "public_units": "- ",
     "private_structures": "2",
     "total_valuation": "8 278",
     "private_valuation": "8 278",
@@ -244,7 +244,7 @@
     "private_2_units_val": "126",
     "private_3_4_units_val": "- ",
     "private_5plus_units_val": "100",
-    "public_valuation": "100"
+    "public_valuation": "- "
   },
   {
     "line_number": "14",
@@ -274,7 +274,7 @@
     "private_2_units": "60",
     "private_3_4_units": "28",
     "private_5plus_units": "335",
-    "public_units": "19",
+    "public_units": "- ",
     "private_structures": "19",
     "total_valuation": "28 809",
     "private_valuation": "28 809",
@@ -282,7 +282,7 @@
     "private_2_units_val": "1 098",
     "private_3_4_units_val": "329",
     "private_5plus_units_val": "5 075",
-    "public_valuation": "5 075"
+    "public_valuation": "- "
   },
   {
     "line_number": "16",
@@ -293,7 +293,7 @@
     "private_2_units": "44",
     "private_3_4_units": "- ",
     "private_5plus_units": "155",
-    "public_units": "5",
+    "public_units": "- ",
     "private_structures": "5",
     "total_valuation": "5 197",
     "private_valuation": "5 197",
@@ -301,7 +301,7 @@
     "private_2_units_val": "734",
     "private_3_4_units_val": "- ",
     "private_5plus_units_val": "2 100",
-    "public_valuation": "2 100"
+    "public_valuation": "- "
   },
   {
     "line_number": "17",
@@ -312,7 +312,7 @@
     "private_2_units": "16",
     "private_3_4_units": "28",
     "private_5plus_units": "180",
-    "public_units": "14",
+    "public_units": "- ",
     "private_structures": "14",
     "total_valuation": "23 612",
     "private_valuation": "23 612",
@@ -320,7 +320,7 @@
     "private_2_units_val": "364",
     "private_3_4_units_val": "329",
     "private_5plus_units_val": "2 975",
-    "public_valuation": "2 975"
+    "public_valuation": "- "
   },
   {
     "line_number": "18",
@@ -331,7 +331,7 @@
     "private_2_units": "66",
     "private_3_4_units": "8",
     "private_5plus_units": "343",
-    "public_units": "33",
+    "public_units": "42",
     "private_structures": "33",
     "total_valuation": "104 303",
     "private_valuation": "103 365",
@@ -339,7 +339,7 @@
     "private_2_units_val": "707",
     "private_3_4_units_val": "59",
     "private_5plus_units_val": "3 597",
-    "public_valuation": "3 597"
+    "public_valuation": "939"
   },
   {
     "line_number": "19",
@@ -350,7 +350,7 @@
     "private_2_units": "22",
     "private_3_4_units": "8",
     "private_5plus_units": "303",
-    "public_units": "31",
+    "public_units": "42",
     "private_structures": "31",
     "total_valuation": "35 076",
     "private_valuation": "34 137",
@@ -358,7 +358,7 @@
     "private_2_units_val": "259",
     "private_3_4_units_val": "59",
     "private_5plus_units_val": "2 497",
-    "public_valuation": "2 497"
+    "public_valuation": "939"
   },
   {
     "line_number": "20",
@@ -369,7 +369,7 @@
     "private_2_units": "10",
     "private_3_4_units": "4",
     "private_5plus_units": "8",
-    "public_units": "1",
+    "public_units": "- ",
     "private_structures": "1",
     "total_valuation": "8 227",
     "private_valuation": "8 227",
@@ -377,7 +377,7 @@
     "private_2_units_val": "107",
     "private_3_4_units_val": "30",
     "private_5plus_units_val": "68",
-    "public_valuation": "68"
+    "public_valuation": "- "
   },
   {
     "line_number": "21",
@@ -388,7 +388,7 @@
     "private_2_units": "12",
     "private_3_4_units": "4",
     "private_5plus_units": "295",
-    "public_units": "30",
+    "public_units": "42",
     "private_structures": "30",
     "total_valuation": "26 848",
     "private_valuation": "25 910",
@@ -396,7 +396,7 @@
     "private_2_units_val": "152",
     "private_3_4_units_val": "29",
     "private_5plus_units_val": "2 429",
-    "public_valuation": "2 429"
+    "public_valuation": "939"
   },
   {
     "line_number": "22",
@@ -407,7 +407,7 @@
     "private_2_units": "44",
     "private_3_4_units": "- ",
     "private_5plus_units": "40",
-    "public_units": "2",
+    "public_units": "- ",
     "private_structures": "2",
     "total_valuation": "69 228",
     "private_valuation": "69 228",
@@ -415,7 +415,7 @@
     "private_2_units_val": "448",
     "private_3_4_units_val": "- ",
     "private_5plus_units_val": "1 100",
-    "public_valuation": "1 100"
+    "public_valuation": "- "
   },
   {
     "line_number": "23",
@@ -426,7 +426,7 @@
     "private_2_units": "12",
     "private_3_4_units": "7",
     "private_5plus_units": "684",
-    "public_units": "31",
+    "public_units": "- ",
     "private_structures": "31",
     "total_valuation": "40 633",
     "private_valuation": "40 633",
@@ -434,7 +434,7 @@
     "private_2_units_val": "112",
     "private_3_4_units_val": "102",
     "private_5plus_units_val": "8 832",
-    "public_valuation": "8 832"
+    "public_valuation": "- "
   },
   {
     "line_number": "24",
@@ -445,7 +445,7 @@
     "private_2_units": "- ",
     "private_3_4_units": "- ",
     "private_5plus_units": "295",
-    "public_units": "2",
+    "public_units": "- ",
     "private_structures": "2",
     "total_valuation": "4 632",
     "private_valuation": "4 632",
@@ -453,7 +453,7 @@
     "private_2_units_val": "- ",
     "private_3_4_units_val": "- ",
     "private_5plus_units_val": "3 980",
-    "public_valuation": "3 980"
+    "public_valuation": "- "
   },
   {
     "line_number": "25",
@@ -464,7 +464,7 @@
     "private_2_units": "12",
     "private_3_4_units": "7",
     "private_5plus_units": "389",
-    "public_units": "29",
+    "public_units": "- ",
     "private_structures": "29",
     "total_valuation": "36 001",
     "private_valuation": "36 001",
@@ -472,7 +472,7 @@
     "private_2_units_val": "112",
     "private_3_4_units_val": "102",
     "private_5plus_units_val": "4 852",
-    "public_valuation": "4 852"
+    "public_valuation": "- "
   },
   {
     "line_number": "26",
@@ -483,7 +483,7 @@
     "private_2_units": "50",
     "private_3_4_units": "61",
     "private_5plus_units": "2 096",
-    "public_units": "175",
+    "public_units": "- ",
     "private_structures": "175",
     "total_valuation": "115 574",
     "private_valuation": "115 574",
@@ -491,7 +491,7 @@
     "private_2_units_val": "1 115",
     "private_3_4_units_val": "866",
     "private_5plus_units_val": "33 678",
-    "public_valuation": "33 678"
+    "public_valuation": "- "
   },
   {
     "line_number": "27",
@@ -502,7 +502,7 @@
     "private_2_units": "38",
     "private_3_4_units": "32",
     "private_5plus_units": "1 747",
-    "public_units": "131",
+    "public_units": "- ",
     "private_structures": "131",
     "total_valuation": "71 259",
     "private_valuation": "71 259",
@@ -510,7 +510,7 @@
     "private_2_units_val": "791",
     "private_3_4_units_val": "484",
     "private_5plus_units_val": "29 459",
-    "public_valuation": "29 459"
+    "public_valuation": "- "
   },
   {
     "line_number": "28",
@@ -521,7 +521,7 @@
     "private_2_units": "12",
     "private_3_4_units": "29",
     "private_5plus_units": "349",
-    "public_units": "44",
+    "public_units": "- ",
     "private_structures": "44",
     "total_valuation": "44 315",
     "private_valuation": "44 315",
@@ -529,7 +529,7 @@
     "private_2_units_val": "324",
     "private_3_4_units_val": "382",
     "private_5plus_units_val": "4 219",
-    "public_valuation": "4 219"
+    "public_valuation": "- "
   },
   {
     "line_number": "29",
@@ -540,7 +540,7 @@
     "private_2_units": "94",
     "private_3_4_units": "119",
     "private_5plus_units": "1 556",
-    "public_units": "99",
+    "public_units": "- ",
     "private_structures": "99",
     "total_valuation": "81 890",
     "private_valuation": "81 890",
@@ -548,7 +548,7 @@
     "private_2_units_val": "2 212",
     "private_3_4_units_val": "2 088",
     "private_5plus_units_val": "21 799",
-    "public_valuation": "21 799"
+    "public_valuation": "- "
   },
   {
     "line_number": "30",
@@ -559,7 +559,7 @@
     "private_2_units": "38",
     "private_3_4_units": "32",
     "private_5plus_units": "1 089",
-    "public_units": "66",
+    "public_units": "- ",
     "private_structures": "66",
     "total_valuation": "43 436",
     "private_valuation": "43 436",
@@ -567,7 +567,7 @@
     "private_2_units_val": "847",
     "private_3_4_units_val": "501",
     "private_5plus_units_val": "13 831",
-    "public_valuation": "13 831"
+    "public_valuation": "- "
   },
   {
     "line_number": "31",
@@ -578,7 +578,7 @@
     "private_2_units": "30",
     "private_3_4_units": "32",
     "private_5plus_units": "704",
-    "public_units": "44",
+    "public_units": "- ",
     "private_structures": "44",
     "total_valuation": "22 141",
     "private_valuation": "22 141",
@@ -586,7 +586,7 @@
     "private_2_units_val": "687",
     "private_3_4_units_val": "501",
     "private_5plus_units_val": "8 464",
-    "public_valuation": "8 464"
+    "public_valuation": "- "
   },
   {
     "line_number": "32",
@@ -597,7 +597,7 @@
     "private_2_units": "8",
     "private_3_4_units": "- ",
     "private_5plus_units": "385",
-    "public_units": "22",
+    "public_units": "- ",
     "private_structures": "22",
     "total_valuation": "21 296",
     "private_valuation": "21 296",
@@ -605,7 +605,7 @@
     "private_2_units_val": "160",
     "private_3_4_units_val": "- ",
     "private_5plus_units_val": "5 367",
-    "public_valuation": "5 367"
+    "public_valuation": "- "
   },
   {
     "line_number": "33",
@@ -616,7 +616,7 @@
     "private_2_units": "56",
     "private_3_4_units": "87",
     "private_5plus_units": "467",
-    "public_units": "33",
+    "public_units": "- ",
     "private_structures": "33",
     "total_valuation": "38 454",
     "private_valuation": "38 454",
@@ -624,7 +624,7 @@
     "private_2_units_val": "1 365",
     "private_3_4_units_val": "1 587",
     "private_5plus_units_val": "7 968",
-    "public_valuation": "7 968"
+    "public_valuation": "- "
   },
   {
     "line_number": "34",
@@ -635,7 +635,7 @@
     "private_2_units": "52",
     "private_3_4_units": "24",
     "private_5plus_units": "763",
-    "public_units": "51",
+    "public_units": "- ",
     "private_structures": "51",
     "total_valuation": "116 766",
     "private_valuation": "116 766",
@@ -643,7 +643,7 @@
     "private_2_units_val": "697",
     "private_3_4_units_val": "432",
     "private_5plus_units_val": "9 241",
-    "public_valuation": "9 241"
+    "public_valuation": "- "
   },
   {
     "line_number": "35",
@@ -654,7 +654,7 @@
     "private_2_units": "10",
     "private_3_4_units": "24",
     "private_5plus_units": "75",
-    "public_units": "8",
+    "public_units": "- ",
     "private_structures": "8",
     "total_valuation": "3 338",
     "private_valuation": "3 338",
@@ -662,7 +662,7 @@
     "private_2_units_val": "81",
     "private_3_4_units_val": "432",
     "private_5plus_units_val": "410",
-    "public_valuation": "410"
+    "public_valuation": "- "
   },
   {
     "line_number": "36",
@@ -673,7 +673,7 @@
     "private_2_units": "42",
     "private_3_4_units": "- ",
     "private_5plus_units": "688",
-    "public_units": "43",
+    "public_units": "- ",
     "private_structures": "43",
     "total_valuation": "113 428",
     "private_valuation": "113 428",
@@ -681,18 +681,18 @@
     "private_2_units_val": "616",
     "private_3_4_units_val": "- ",
     "private_5plus_units_val": "8 831",
-    "public_valuation": "8 831"
+    "public_valuation": "- "
   },
   {
     "line_number": "37",
-    "smsa_name": "RIVERSIDE-SAN BERNARDINO- ONTARIO, CALIF.",
+    "smsa_name": "RIVERSIDE-SAN BERNARDINO-",
     "total_units": "19 789",
     "private_total": "19 789",
     "private_1_unit": "17 170",
     "private_2_units": "404",
     "private_3_4_units": "683",
     "private_5plus_units": "1 532",
-    "public_units": "158",
+    "public_units": "- ",
     "private_structures": "158",
     "total_valuation": "694 200",
     "private_valuation": "694 200",
@@ -700,18 +700,18 @@
     "private_2_units_val": "10 290",
     "private_3_4_units_val": "13 739",
     "private_5plus_units_val": "29 182",
-    "public_valuation": "29 182"
+    "public_valuation": "- "
   },
   {
     "line_number": "38",
-    "smsa_name": "INSIDE CENTRAL CITIES.",
+    "smsa_name": "INSIDE CENTRAL CITIES,",
     "total_units": "4 384",
     "private_total": "4 384",
     "private_1_unit": "3 506",
     "private_2_units": "152",
     "private_3_4_units": "65",
     "private_5plus_units": "661",
-    "public_units": "57",
+    "public_units": "- ",
     "private_structures": "57",
     "total_valuation": "138 727",
     "private_valuation": "138 727",
@@ -719,7 +719,7 @@
     "private_2_units_val": "3 791",
     "private_3_4_units_val": "1 174",
     "private_5plus_units_val": "9 552",
-    "public_valuation": "9 552"
+    "public_valuation": "- "
   },
   {
     "line_number": "39",
@@ -730,7 +730,7 @@
     "private_2_units": "- ",
     "private_3_4_units": "4",
     "private_5plus_units": "9",
-    "public_units": "1",
+    "public_units": "- ",
     "private_structures": "1",
     "total_valuation": "56 058",
     "private_valuation": "56 058",
@@ -738,7 +738,7 @@
     "private_2_units_val": "- ",
     "private_3_4_units_val": "75",
     "private_5plus_units_val": "81",
-    "public_valuation": "81"
+    "public_valuation": "- "
   },
   {
     "line_number": "40",
@@ -749,7 +749,7 @@
     "private_2_units": "148",
     "private_3_4_units": "58",
     "private_5plus_units": "598",
-    "public_units": "52",
+    "public_units": "- ",
     "private_structures": "52",
     "total_valuation": "74 425",
     "private_valuation": "74 425",
@@ -757,7 +757,7 @@
     "private_2_units_val": "3 730",
     "private_3_4_units_val": "1 051",
     "private_5plus_units_val": "9 039",
-    "public_valuation": "9 039"
+    "public_valuation": "- "
   },
   {
     "line_number": "41",
@@ -768,7 +768,7 @@
     "private_2_units": "4",
     "private_3_4_units": "3",
     "private_5plus_units": "54",
-    "public_units": "4",
+    "public_units": "- ",
     "private_structures": "4",
     "total_valuation": "8 243",
     "private_valuation": "8 243",
@@ -776,7 +776,7 @@
     "private_2_units_val": "61",
     "private_3_4_units_val": "48",
     "private_5plus_units_val": "432",
-    "public_valuation": "432"
+    "public_valuation": "- "
   },
   {
     "line_number": "42",
@@ -787,7 +787,7 @@
     "private_2_units": "252",
     "private_3_4_units": "618",
     "private_5plus_units": "871",
-    "public_units": "101",
+    "public_units": "- ",
     "private_structures": "101",
     "total_valuation": "555 474",
     "private_valuation": "555 474",
@@ -795,7 +795,7 @@
     "private_2_units_val": "6 500",
     "private_3_4_units_val": "12 565",
     "private_5plus_units_val": "19 630",
-    "public_valuation": "19 630"
+    "public_valuation": "- "
   },
   {
     "line_number": "43",
@@ -806,7 +806,7 @@
     "private_2_units": "22",
     "private_3_4_units": "15",
     "private_5plus_units": "220",
-    "public_units": "18",
+    "public_units": "- ",
     "private_structures": "18",
     "total_valuation": "29 838",
     "private_valuation": "29 838",
@@ -814,7 +814,7 @@
     "private_2_units_val": "260",
     "private_3_4_units_val": "162",
     "private_5plus_units_val": "1 930",
-    "public_valuation": "1 930"
+    "public_valuation": "- "
   },
   {
     "line_number": "44",
@@ -825,7 +825,7 @@
     "private_2_units": "12",
     "private_3_4_units": "12",
     "private_5plus_units": "5",
-    "public_units": "1",
+    "public_units": "- ",
     "private_structures": "1",
     "total_valuation": "3 108",
     "private_valuation": "3 108",
@@ -833,7 +833,7 @@
     "private_2_units_val": "114",
     "private_3_4_units_val": "135",
     "private_5plus_units_val": "75",
-    "public_valuation": "75"
+    "public_valuation": "- "
   },
   {
     "line_number": "45",
@@ -844,7 +844,7 @@
     "private_2_units": "10",
     "private_3_4_units": "3",
     "private_5plus_units": "215",
-    "public_units": "17",
+    "public_units": "- ",
     "private_structures": "17",
     "total_valuation": "26 730",
     "private_valuation": "26 730",
@@ -852,7 +852,7 @@
     "private_2_units_val": "146",
     "private_3_4_units_val": "27",
     "private_5plus_units_val": "1 855",
-    "public_valuation": "1 855"
+    "public_valuation": "- "
   },
   {
     "line_number": "46",
@@ -863,7 +863,7 @@
     "private_2_units": "6",
     "private_3_4_units": "44",
     "private_5plus_units": "167",
-    "public_units": "10",
+    "public_units": "- ",
     "private_structures": "10",
     "total_valuation": "28 993",
     "private_valuation": "28 993",
@@ -871,7 +871,7 @@
     "private_2_units_val": "110",
     "private_3_4_units_val": "723",
     "private_5plus_units_val": "4 234",
-    "public_valuation": "4 234"
+    "public_valuation": "- "
   },
   {
     "line_number": "47",
@@ -882,7 +882,7 @@
     "private_2_units": "6",
     "private_3_4_units": "44",
     "private_5plus_units": "89",
-    "public_units": "6",
+    "public_units": "- ",
     "private_structures": "6",
     "total_valuation": "15 722",
     "private_valuation": "15 722",
@@ -890,7 +890,7 @@
     "private_2_units_val": "110",
     "private_3_4_units_val": "723",
     "private_5plus_units_val": "3 119",
-    "public_valuation": "3 119"
+    "public_valuation": "- "
   },
   {
     "line_number": "48",
@@ -901,7 +901,7 @@
     "private_2_units": "- ",
     "private_3_4_units": "- ",
     "private_5plus_units": "78",
-    "public_units": "4",
+    "public_units": "- ",
     "private_structures": "4",
     "total_valuation": "13 270",
     "private_valuation": "13 270",
@@ -909,7 +909,7 @@
     "private_2_units_val": "- ",
     "private_3_4_units_val": "- ",
     "private_5plus_units_val": "1 115",
-    "public_valuation": "1 115"
+    "public_valuation": "- "
   },
   {
     "line_number": "49",
@@ -977,7 +977,7 @@
     "private_2_units": "56",
     "private_3_4_units": "23",
     "private_5plus_units": "634",
-    "public_units": "27",
+    "public_units": "- ",
     "private_structures": "27",
     "total_valuation": "47 985",
     "private_valuation": "47 985",
@@ -985,7 +985,7 @@
     "private_2_units_val": "1 026",
     "private_3_4_units_val": "260",
     "private_5plus_units_val": "7 718",
-    "public_valuation": "7 718"
+    "public_valuation": "- "
   },
   {
     "line_number": "53",
@@ -996,7 +996,7 @@
     "private_2_units": "38",
     "private_3_4_units": "8",
     "private_5plus_units": "101",
-    "public_units": "14",
+    "public_units": "- ",
     "private_structures": "14",
     "total_valuation": "8 610",
     "private_valuation": "8 610",
@@ -1004,7 +1004,7 @@
     "private_2_units_val": "637",
     "private_3_4_units_val": "76",
     "private_5plus_units_val": "1 212",
-    "public_valuation": "1 212"
+    "public_valuation": "- "
   },
   {
     "line_number": "54",
@@ -1015,7 +1015,7 @@
     "private_2_units": "18",
     "private_3_4_units": "15",
     "private_5plus_units": "533",
-    "public_units": "13",
+    "public_units": "- ",
     "private_structures": "13",
     "total_valuation": "39 375",
     "private_valuation": "39 375",
@@ -1023,7 +1023,7 @@
     "private_2_units_val": "389",
     "private_3_4_units_val": "185",
     "private_5plus_units_val": "6 506",
-    "public_valuation": "6 506"
+    "public_valuation": "- "
   },
   {
     "line_number": "55",
@@ -1034,7 +1034,7 @@
     "private_2_units": "2 292",
     "private_3_4_units": "738",
     "private_5plus_units": "3 312",
-    "public_units": "283",
+    "public_units": "- ",
     "private_structures": "283",
     "total_valuation": "322 724",
     "private_valuation": "322 724",
@@ -1042,7 +1042,7 @@
     "private_2_units_val": "35 406",
     "private_3_4_units_val": "10 457",
     "private_5plus_units_val": "39 889",
-    "public_valuation": "39 889"
+    "public_valuation": "- "
   },
   {
     "line_number": "56",
@@ -1053,7 +1053,7 @@
     "private_2_units": "98",
     "private_3_4_units": "71",
     "private_5plus_units": "572",
-    "public_units": "26",
+    "public_units": "- ",
     "private_structures": "26",
     "total_valuation": "42 412",
     "private_valuation": "42 412",
@@ -1061,7 +1061,7 @@
     "private_2_units_val": "2 201",
     "private_3_4_units_val": "1 175",
     "private_5plus_units_val": "10 482",
-    "public_valuation": "10 482"
+    "public_valuation": "- "
   },
   {
     "line_number": "57",
@@ -1072,7 +1072,7 @@
     "private_2_units": "2 194",
     "private_3_4_units": "667",
     "private_5plus_units": "2 740",
-    "public_units": "257",
+    "public_units": "- ",
     "private_structures": "257",
     "total_valuation": "280 312",
     "private_valuation": "280 312",
@@ -1080,7 +1080,7 @@
     "private_2_units_val": "33 205",
     "private_3_4_units_val": "9 281",
     "private_5plus_units_val": "29 407",
-    "public_valuation": "29 407"
+    "public_valuation": "- "
   },
   {
     "line_number": "58",
@@ -1091,7 +1091,7 @@
     "private_2_units": "122",
     "private_3_4_units": "8",
     "private_5plus_units": "135",
-    "public_units": "3",
+    "public_units": "- ",
     "private_structures": "3",
     "total_valuation": "27 546",
     "private_valuation": "27 546",
@@ -1099,7 +1099,7 @@
     "private_2_units_val": "2 081",
     "private_3_4_units_val": "108",
     "private_5plus_units_val": "1 330",
-    "public_valuation": "1 330"
+    "public_valuation": "- "
   },
   {
     "line_number": "59",
@@ -1110,7 +1110,7 @@
     "private_2_units": "14",
     "private_3_4_units": "- ",
     "private_5plus_units": "8",
-    "public_units": "1",
+    "public_units": "- ",
     "private_structures": "1",
     "total_valuation": "443",
     "private_valuation": "443",
@@ -1118,7 +1118,7 @@
     "private_2_units_val": "101",
     "private_3_4_units_val": "- ",
     "private_5plus_units_val": "40",
-    "public_valuation": "40"
+    "public_valuation": "- "
   },
   {
     "line_number": "60",
@@ -1129,7 +1129,7 @@
     "private_2_units": "108",
     "private_3_4_units": "8",
     "private_5plus_units": "127",
-    "public_units": "2",
+    "public_units": "- ",
     "private_structures": "2",
     "total_valuation": "27 103",
     "private_valuation": "27 103",
@@ -1137,7 +1137,7 @@
     "private_2_units_val": "1 980",
     "private_3_4_units_val": "108",
     "private_5plus_units_val": "1 290",
-    "public_valuation": "1 290"
+    "public_valuation": "- "
   },
   {
     "line_number": "61",
@@ -1148,7 +1148,7 @@
     "private_2_units": "10",
     "private_3_4_units": "- ",
     "private_5plus_units": "492",
-    "public_units": "23",
+    "public_units": "- ",
     "private_structures": "23",
     "total_valuation": "31 458",
     "private_valuation": "31 458",
@@ -1156,18 +1156,18 @@
     "private_2_units_val": "212",
     "private_3_4_units_val": "- ",
     "private_5plus_units_val": "6 816",
-    "public_valuation": "6 816"
+    "public_valuation": "- "
   },
   {
     "line_number": "62",
-    "smsa_name": "ST. CLOUD",
+    "smsa_name": "ST. CLOUD.",
     "total_units": "267",
     "private_total": "267",
     "private_1_unit": "91",
     "private_2_units": "8",
     "private_3_4_units": "- ",
     "private_5plus_units": "168",
-    "public_units": "7",
+    "public_units": "- ",
     "private_structures": "7",
     "total_valuation": "5 952",
     "private_valuation": "5 952",
@@ -1175,7 +1175,7 @@
     "private_2_units_val": "153",
     "private_3_4_units_val": "- ",
     "private_5plus_units_val": "2 649",
-    "public_valuation": "2 649"
+    "public_valuation": "- "
   },
   {
     "line_number": "63",
@@ -1186,7 +1186,7 @@
     "private_2_units": "2",
     "private_3_4_units": "- ",
     "private_5plus_units": "324",
-    "public_units": "16",
+    "public_units": "- ",
     "private_structures": "16",
     "total_valuation": "25 505",
     "private_valuation": "25 505",
@@ -1194,7 +1194,7 @@
     "private_2_units_val": "59",
     "private_3_4_units_val": "- ",
     "private_5plus_units_val": "4 167",
-    "public_valuation": "4 167"
+    "public_valuation": "- "
   },
   {
     "line_number": "64",
@@ -1205,7 +1205,7 @@
     "private_2_units": "54",
     "private_3_4_units": "11",
     "private_5plus_units": "586",
-    "public_units": "20",
+    "public_units": "- ",
     "private_structures": "20",
     "total_valuation": "14 911",
     "private_valuation": "14 911",
@@ -1213,7 +1213,7 @@
     "private_2_units_val": "621",
     "private_3_4_units_val": "290",
     "private_5plus_units_val": "6 885",
-    "public_valuation": "6 885"
+    "public_valuation": "- "
   },
   {
     "line_number": "65",
@@ -1224,7 +1224,7 @@
     "private_2_units": "54",
     "private_3_4_units": "11",
     "private_5plus_units": "586",
-    "public_units": "20",
+    "public_units": "- ",
     "private_structures": "20",
     "total_valuation": "13 028",
     "private_valuation": "13 028",
@@ -1232,7 +1232,7 @@
     "private_2_units_val": "621",
     "private_3_4_units_val": "290",
     "private_5plus_units_val": "6 885",
-    "public_valuation": "6 885"
+    "public_valuation": "- "
   },
   {
     "line_number": "66",

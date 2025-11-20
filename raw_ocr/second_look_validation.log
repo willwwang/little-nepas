@@ -1,0 +1,302 @@
+======================================================================
+STRICT VALIDATION REPORT
+======================================================================
+
+----------------------------------------------------------------------
+FILES WITH NO ROWS
+----------------------------------------------------------------------
+  None
+
+----------------------------------------------------------------------
+EXACT EQUALITY VALIDATION ERRORS
+----------------------------------------------------------------------
+
+1967\pages_03_04.json:
+  Line 7 (BALTIMORE, MD.): private_valuation: 179411 != 123599 + 308 + 177 + 55329 = 179413 (diff=-2)
+
+1967\pages_11_12.json:
+  Line 1 (HUNTINGTON-ASHLAND, W.VA.-KY.-OHIO): total_valuation: 5795 != 5759 + 0 = 5759 (diff=+36)
+  Line 1 (HUNTINGTON-ASHLAND, W.VA.-KY.-OHIO): private_valuation: 5759 != 5006 + 67 + 86 + 636 = 5795 (diff=-36)
+
+1967\pages_15_16.json:
+  Line 36 (MINNEAPOLIS): private_valuation: 13285 != 1423 + 510 + 181 + 11173 = 13287 (diff=-2)
+  Line 45 (MONTGOMERY, ALA.): total_units: 1869 != 1369 + 600 = 1969 (diff=-100)
+  Line 47 (OUTSIDE CENTRAL CITY): total_units: 54 != 54 + 100 = 154 (diff=-100)
+  Line 50 (OUTSIDE CENTRAL CITY): private_valuation: 3536 != 3336 + 0 + 0 + 0 = 3336 (diff=+200)
+  Line 56 (NASHVILLE, TENN.): total_valuation: 55947 != 52197 + 3755 = 55952 (diff=-5)
+  Line 56 (NASHVILLE, TENN.): private_valuation: 52197 != 37871 + 2030 + 422 + 11869 = 52192 (diff=+5)
+
+1967\pages_23_24.json:
+  Line 3 (OAKLAND): private_valuation: 20114 != 6904 + 218 + 2288 + 10706 = 20116 (diff=-2)
+  Line 35 (SIOUX FALLS): private_total: 359 != 153 + 12 + 3 + 194 = 362 (diff=-3)
+  Line 35 (SIOUX FALLS): private_valuation: 3986 != 2312 + 106 + 30 + 1568 = 4016 (diff=-30)
+  Line 36 (OUTSIDE CENTRAL CITY): private_total: 7 != 4 + 0 + 0 + 0 = 4 (diff=+3)
+  Line 36 (OUTSIDE CENTRAL CITY): private_valuation: 93 != 63 + 0 + 0 + 0 = 63 (diff=+30)
+  Line 49 (SPRINGFIELD, OHIO): total_valuation: 15524 != 15678 + 1848 = 17526 (diff=-2002)
+
+1968\pages_05_06.json:
+  Line 47 (OUTSIDE CENTRAL CITY): private_valuation: 136139 != 94894 + 1318 + 759 + 39170 = 136141 (diff=-2)
+
+1968\pages_09_10.json:
+  Line 22 (HAMMOND): private_valuation: 6628 != 1716 + 59 + 174 + 4694 = 6643 (diff=-15)
+  Line 43 (INSIDE CENTRAL CITIES): private_valuation: 7653 != 3130 + 130 + 1395 + 2996 = 7651 (diff=+2)
+
+1968\pages_11_12.json:
+  Line 13 (JACKSON): private_total: 102 != 7 + 16 + 7 + 95 = 125 (diff=-23)
+  Line 14 (OUTSIDE CENTRAL CITY): private_total: 680 != 657 + 16 + 0 + 0 = 673 (diff=+7)
+
+1968\pages_13_14.json:
+  Line 26 (LINCOLN, NEBR.): private_valuation: 14603 != 7923 + 669 + 604 + 5405 = 14601 (diff=+2)
+  Line 27 (LINCOLN): private_valuation: 13988 != 7308 + 669 + 604 + 5405 = 13986 (diff=+2)
+
+1968\pages_21_22.json:
+  Line 16 (ROCKFORD, ILL.): private_valuation: 45197 != 24756 + 3029 + 1295 + 16119 = 45199 (diff=-2)
+
+1968\pages_27_28.json:
+  Line 26 (OUTSIDE CENTRAL CITY): private_valuation: 136034 != 51741 + 2491 + 2722 + 79082 = 136036 (diff=-2)
+
+1969\pages_07_08.json:
+  Line 37 (INSIDE CENTRAL CITIES): private_total: 934 != 193 + 6 + 10 + 735 = 944 (diff=-10)
+  Line 38 (FARGO): private_total: 674 != 132 + 0 + 10 + 542 = 684 (diff=-10)
+
+1969\pages_11_12.json:
+  Line 7 (HUNTSVILLE): private_total: 663 != 407 + 2 + 4 + 252 = 665 (diff=-2)
+  Line 8 (OUTSIDE CENTRAL CITY): private_total: 76 != 74 + 0 + 0 + 0 = 74 (diff=+2)
+
+1969\pages_15_16.json:
+  Line 8 (MACON): private_valuation: 10483 != 5768 + 342 + 933 + 3438 = 10481 (diff=+2)
+  Line 18 (OUTSIDE CENTRAL CITY): private_valuation: 7992 != 7282 + 197 + 375 + 140 = 7994 (diff=-2)
+
+1969\pages_17_18.json:
+  Line 13 (NEW LONDON-GROTON-NORWICH, CONN.): private_valuation: 13849 != 9980 + 98 + 281 + 3540 = 13899 (diff=-50)
+
+1969\pages_25_26.json:
+  Line 38 (TOPEKA): private_valuation: 11918 != 3693 + 97 + 789 + 7341 = 11920 (diff=-2)
+  Line 52 (TYLER, TEX.): private_valuation: 5965 != 4990 + 105 + 0 + 1310 = 6405 (diff=-440)
+
+1971\pages_01_02.json:
+  Line 23 (ALEXANDRIA): private_total: 278 != 186 + 0 + 35 + 92 = 313 (diff=-35)
+  Line 24 (OUTSIDE CENTRAL CITY): private_total: 83 != 28 + 0 + 0 + 20 = 48 (diff=+35)
+
+1971\pages_05_06.json:
+  Line 39 (CHARLESTON): private_total: 686 != 168 + 4 + 8 + 514 = 694 (diff=-8)
+
+1971\pages_27_28.json:
+  Line 9 (OUTSIDE CENTRAL CITY): private_valuation: 29697 != 20706 + 1301 + 1470 + 6218 = 29695 (diff=+2)
+
+1971\pages_29_30.json:
+  Line 50 (TUCSON): private_valuation: 57006 != 24660 + 2699 + 1414 + 28235 = 57008 (diff=-2)
+  Line 52 (TULSA, OKLA.): private_valuation: 76501 != 45103 + 4730 + 474 + 26196 = 76503 (diff=-2)
+
+1971\pages_31_32.json:
+  Line 33 (WEST PALM BEACH, FLA.): private_valuation: 223812 != 84154 + 6517 + 7312 + 125827 = 223810 (diff=+2)
+
+1972\pages_03_04.json:
+  Line 40 (BIRMINGHAM): private_valuation: 24103 != 5439 + 190 + 286 + 18186 = 24101 (diff=+2)
+
+1972\pages_05_06.json:
+  Line 40 (OUTSIDE CENTRAL CITY): private_valuation: 958591 != 596931 + 9090 + 36126 + 316442 = 958589 (diff=+2)
+
+1972\pages_07_08.json:
+  Line 2 (DALLAS): private_valuation: 121712 != 74772 + 2791 + 206 + 44149 = 121918 (diff=-206)
+
+1972\pages_11_12.json:
+  Line 4 (HIGH POINT #): private_total: 1260 != 489 + 22 + 16 + 749 = 1276 (diff=-16)
+  Line 6 (OUTSIDE CENTRAL CITIES): private_valuation: 61781 != 49524 + 696 + 440 + 11119 = 61779 (diff=+2)
+
+1972\pages_13_14.json:
+  Line 59 (LIMA): private_total: 242 != 43 + 0 + 15 + 199 = 257 (diff=-15)
+  Line 59 (LIMA): private_valuation: 2273 != 401 + 0 + 190 + 1872 = 2463 (diff=-190)
+  Line 60 (OUTSIDE CENTRAL CITY): private_total: 274 != 249 + 10 + 0 + 0 = 259 (diff=+15)
+  Line 60 (OUTSIDE CENTRAL CITY): private_valuation: 5917 != 5602 + 125 + 0 + 0 = 5727 (diff=+190)
+
+1972\pages_15_16.json:
+  Line 15 (OUTSIDE CENTRAL CITIES): private_valuation: 593860 != 217280 + 6943 + 38624 + 331011 = 593858 (diff=+2)
+
+1972\pages_17_18.json:
+  Line 13 (MONROE.): private_total: 878 != 447 + 0 + 24 + 431 = 902 (diff=-24)
+  Line 13 (MONROE.): private_valuation: 11561 != 8029 + 0 + 169 + 3531 = 11729 (diff=-168)
+  Line 14 (OUTSIDE CENTRAL CITY): private_total: 233 != 46 + 14 + 0 + 149 = 209 (diff=+24)
+  Line 14 (OUTSIDE CENTRAL CITY): private_valuation: 2208 != 1174 + 163 + 0 + 702 = 2039 (diff=+169)
+
+1972\pages_23_24.json:
+  Line 20 (SALEM): private_valuation: 10865 != 4738 + 621 + 2701 + 2807 = 10867 (diff=-2)
+
+1972\pages_27_28.json:
+  Line 42 (FAIRFIELD): private_valuation: 16788 != 13119 + 24 + 47 + 3602 = 16792 (diff=-4)
+  Line 61 (WATERLOO, IOWA): private_valuation: 7820 != 5261 + 304 + 289 + 1968 = 7822 (diff=-2)
+
+1973\pages_01_02.json:
+  Line 14 (INSIDE CENTRAL CITIES): private_valuation: 8293 != 3996 + 544 + 80 + 3648 = 8268 (diff=+25)
+  Line 40 (GARDEN GROVE): private_total: 846 != 384 + 6 + 67 + 395 = 852 (diff=-6)
+
+1973\pages_05_06.json:
+  Line 6 (BROWNSVILLE. . . . . . . .): private_valuation: 24686 != 6046 + 0 + 168 + 18642 = 24856 (diff=-170)
+  Line 7 (HARLINGEN. . . . . . . . .): private_valuation: 5639 != 2070 + 0 + 0 + 3401 = 5471 (diff=+168)
+  Line 13 (COLLEGE STATION. . . . . .): private_valuation: 9766 != 2150 + 14 + 206 + 7394 = 9764 (diff=+2)
+
+1973\pages_07_08.json:
+  Line 63 (EVANSVILLE, IND.-KY.): total_valuation: 23488 != 23486 + 0 = 23486 (diff=+2)
+  Line 63 (EVANSVILLE, IND.-KY.): private_valuation: 23486 != 15946 + 86 + 739 + 6717 = 23488 (diff=-2)
+
+1973\pages_13_14.json:
+  Line 36 (LANCASTER, PA.): private_total: 2987 != 1705 + 14 + 36 + 1230 = 2985 (diff=+2)
+  Line 68 (OUTSIDE CENTRAL CITY): private_total: 763 != 510 + 72 + 129 + 72 = 783 (diff=-20)
+
+1973\pages_17_18.json:
+  Line 10 (ST. PAUL): private_valuation: 11345 != 6747 + 963 + 347 + 3286 = 11343 (diff=+2)
+  Line 27 (MUSKEGON-MUSKEGON HEIGHTS, MICH.): private_valuation: 13343 != 10851 + 128 + 392 + 1970 = 13341 (diff=+2)
+  Line 31 (OUTSIDE CENTRAL CITIES): private_valuation: 11274 != 10753 + 126 + 392 + 0 = 11271 (diff=+3)
+
+1973\pages_19_20.json:
+  Line 32 (OMAHA #): private_total: 3844 != 2065 + 122 + 4 + 1655 = 3846 (diff=-2)
+  Line 64 (INSIDE CENTRAL CITIES): private_total: 616 != 354 + 48 + 16 + 196 = 614 (diff=+2)
+
+1973\pages_23_24.json:
+  Line 34 (SALINAS): private_valuation: 11731 != 5682 + 24 + 255 + 5800 = 11761 (diff=-30)
+
+1973\pages_29_30.json:
+  Line 18 (WILMINGTON, DEL.-N.J.-MD.): private_valuation: 93380 != 61004 + 1938 + 325 + 30115 = 93382 (diff=-2)
+  Line 20 (OUTSIDE CENTRAL CITY): private_valuation: 92082 != 59996 + 1938 + 325 + 29825 = 92084 (diff=-2)
+
+1974\pages_01_02.json:
+  Line 39 (ANAHEIM.): private_valuation: 36008 != 27108 + 1098 + 0 + 6224 = 34430 (diff=+1578)
+
+1974\pages_07_08.json:
+  Line 4 (COLUMBUS, OHIO): private_valuation: 130874 != 97502 + 3137 + 3944 + 26293 = 130876 (diff=-2)
+
+1974\pages_17_18.json:
+  Line 6 (OUTSIDE CENTRAL CITY): private_valuation: 406494 != 156267 + 6865 + 9453 + 233911 = 406496 (diff=-2)
+
+1974\pages_23_24.json:
+  Line 56 (OUTSIDE CENTRAL CITY): private_valuation: 18998 != 18613 + 141 + 225 + 0 = 18979 (diff=+19)
+  Line 59 (OUTSIDE CENTRAL CITY): private_valuation: 283606 != 177380 + 9729 + 9934 + 86561 = 283604 (diff=+2)
+
+1974\pages_25_26.json:
+  Line 55 (CHICOPEE): private_valuation: 4198 != 1458 + 80 + 166 + 1494 = 3198 (diff=+1000)
+
+1974\pages_27_28.json:
+  Line 36 (TUCSON): private_valuation: 37413 != 17707 + 1206 + 317 + 18181 = 37411 (diff=+2)
+
+1975\pages_07_08.json:
+  Line 58 (DULUTH): private_total: 127 != 69 + 26 + 4 + 32 = 131 (diff=-4)
+  Line 59 (SUPERIOR): private_total: 26 != 22 + 0 + 0 + 0 = 22 (diff=+4)
+
+1975\pages_09_10.json:
+  Line 43 (FORT COLLINS): private_valuation: 10824 != 9623 + 331 + 401 + 459 = 10814 (diff=+10)
+  Line 44 (OUTSIDE CENTRAL CITY): private_valuation: 23640 != 21449 + 1289 + 259 + 652 = 23649 (diff=-9)
+
+1975\pages_11_12.json:
+  Line 11 (OUTSIDE CENTRAL CITIES .): private_valuation: 93878 != 78619 + 3363 + 3482 + 8412 = 93876 (diff=+2)
+  Line 33 (SPARTANBURG.): private_total: 58 != 50 + 2 + 4 + 0 = 56 (diff=+2)
+
+1975\pages_13_14.json:
+  Line 43 (LAFAYETTE, LA.): private_valuation: 9428 != 8937 + 0 + 0 + 0 = 8937 (diff=+491)
+  Line 44 (LAFAYETTE.): private_valuation: 9169 != 8678 + 0 + 0 + 0 = 8678 (diff=+491)
+
+1975\pages_15_16.json:
+  Line 20 (LEXINGTON-FAYETTE, KY.): private_valuation: 56750 != 46367 + 3153 + 425 + 6803 = 56748 (diff=+2)
+  Line 22 (OUTSIDE CENTRAL CITY): private_valuation: 18465 != 16844 + 847 + 73 + 699 = 18463 (diff=+2)
+
+1975\pages_17_18.json:
+  Line 28 (MIAMI, FLA.): private_valuation: 173178 != 104093 + 7987 + 4148 + 56051 = 172279 (diff=+899)
+  Line 29 (MIAMI): private_valuation: 13594 != 1013 + 3743 + 151 + 7787 = 12694 (diff=+900)
+
+1975\pages_27_28.json:
+  Line 44 (OUTSIDE CENTRAL CITY): private_valuation: 18329 != 17669 + 567 + 0 + 0 = 18236 (diff=+93)
+
+1975\pages_29_30.json:
+  Line 11 (TYLER): private_total: 420 != 292 + 22 + 4 + 106 = 424 (diff=-4)
+  Line 12 (OUTSIDE CENTRAL CITY): private_total: 17 != 13 + 0 + 0 + 0 = 13 (diff=+4)
+
+1976\pages_09_10.json:
+  Line 24 (FAYETTEVILLE): private_total: 434 != 282 + 0 + 4 + 152 = 438 (diff=-4)
+  Line 24 (FAYETTEVILLE): private_valuation: 10973 != 9410 + 0 + 40 + 1563 = 11013 (diff=-40)
+  Line 25 (OUTSIDE CENTRAL CITY): private_total: 132 != 126 + 2 + 0 + 0 = 128 (diff=+4)
+  Line 25 (OUTSIDE CENTRAL CITY): private_valuation: 2747 != 2678 + 29 + 0 + 0 = 2707 (diff=+40)
+
+1976\pages_15_16.json:
+  Line 33 (OUTSIDE CENTRAL CITIES): private_valuation: 16936 != 16369 + 0 + 325 + 0 = 16694 (diff=+242)
+
+1977\pages_01_02.json:
+  Line 5 (ABILENE): private_valuation: 30217 != 21126 + 2265 + 932 + 5896 = 30219 (diff=-2)
+
+1977\pages_07_08.json:
+  Line 23 (INSIDE CENTRAL CITIES.): private_valuation: 375603 != 221448 + 11108 + 1316 + 141733 = 375605 (diff=-2)
+
+1977\pages_11_12.json:
+  Line 29 (OUTSIDE CENTRAL CITY): private_valuation: 37700 != 33563 + 3417 + 126 + 596 = 37702 (diff=-2)
+  Line 46 (HARRISBURG, PA.): private_valuation: 84721 != 60413 + 1179 + 1104 + 22027 = 84723 (diff=-2)
+  Line 60 (ASHLAND.): private_total: 92 != 40 + 4 + 0 + 28 = 72 (diff=+20)
+  Line 60 (ASHLAND.): private_valuation: 1903 != 1158 + 75 + 0 + 325 = 1558 (diff=+345)
+  Line 61 (HUNTINGTON): private_total: 382 != 54 + 0 + 20 + 328 = 402 (diff=-20)
+  Line 61 (HUNTINGTON): private_valuation: 8328 != 2028 + 0 + 345 + 6300 = 8673 (diff=-345)
+
+1978\pages_01_02.json:
+  Line 22 (ALEXANDRIA, LA.): private_valuation: 10493 != 9341 + 605 + 54 + 0 = 10000 (diff=+493)
+  Line 23 (ALEXANDRIA): private_valuation: 8312 != 7161 + 605 + 54 + 0 = 7820 (diff=+492)
+
+1978\pages_15_16.json:
+  Line 10 (LANCASTER.): private_valuation: 4176 != 618 + 84 + 1165 + 0 = 1867 (diff=+2309)
+
+1978\pages_19_20.json:
+  Line 8 (MUNCIE): private_total: 103 != 75 + 0 + 3 + 28 = 106 (diff=-3)
+  Line 9 (OUTSIDE CENTRAL CITY): private_total: 474 != 341 + 8 + 0 + 122 = 471 (diff=+3)
+
+1978\pages_23_24.json:
+  Line 29 (INSIDE CENTRAL CITIES.): private_valuation: 72043 != 58139 + 2030 + 3487 + 8013 = 71669 (diff=+374)
+  Line 53 (RICHLAND-KENNEWICK-PASCO, WASH.): private_valuation: 116880 != 88268 + 4034 + 4293 + 10285 = 106880 (diff=+10000)
+
+1978\pages_25_26.json:
+  Line 33 (MONTEREY): private_valuation: 6199 != 3236 + 319 + 1798 + 785 = 6138 (diff=+61)
+
+1978\pages_27_28.json:
+  Line 32 (SPOKANE, WASH.): private_valuation: 192359 != 151349 + 12373 + 8083 + 20523 = 192328 (diff=+31)
+
+1978\pages_31_32.json:
+  Line 27 (YAKIMA, WASH.): private_valuation: 37898 != 29131 + 715 + 1187 + 6867 = 37900 (diff=-2)
+
+1979\pages_01_02.json:
+  Line 3 (OUTSIDE CENTRAL CITIES): private_total: 844933 != 580971 + 29932 + 32220 + 201910 = 845033 (diff=-100)
+
+1979\pages_03_04.json:
+  Line 57 (NORMAL TOWN): private_valuation: 5934 != 3045 + 0 + 562 + 2325 = 5932 (diff=+2)
+
+1979\pages_05_06.json:
+  Line 29 (OUTSIDE CENTRAL CITY): private_valuation: 86607 != 65188 + 11556 + 2030 + 7823 = 86597 (diff=+10)
+  Line 34 (INSIDE CENTRAL CITIES.): private_valuation: 12129 != 5339 + 395 + 0 + 6020 = 11754 (diff=+375)
+
+1979\pages_07_08.json:
+  Line 34 (ROCK ISLAND.): private_valuation: 11618 != 1806 + 6 + 2 + 9108 = 10922 (diff=+696)
+
+1979\pages_09_10.json:
+  Line 26 (INSIDE CENTRAL CITIES): private_valuation: 33615 != 12797 + 5317 + 360 + 13707 = 32181 (diff=+1434)
+  Line 28 (MOORHEAD): private_valuation: 11435 != 4643 + 2774 + 148 + 2436 = 10001 (diff=+1434)
+  Line 44 (FLINT): private_valuation: 1054 != 1017 + 40 + 0 + 0 = 1057 (diff=-3)
+
+1979\pages_11_12.json:
+  Line 19 (HAMMOND.): private_valuation: 1825 != 768 + 144 + 432 + 541 = 1885 (diff=-60)
+  Line 20 (OUTSIDE CENTRAL CITIES): private_valuation: 134712 != 114750 + 3572 + 5511 + 10881 = 134714 (diff=-2)
+
+1979\pages_15_16.json:
+  Line 10 (LAKE CHARLES): private_valuation: 13887 != 7457 + 357 + 1750 + 4350 = 13914 (diff=-27)
+
+1979\pages_17_18.json:
+  Line 47 (INSIDE CENTRAL CITIES.): private_valuation: 26008 != 22008 + 483 + 847 + 2684 = 26022 (diff=-14)
+  Line 50 (TITUSVILLE): private_valuation: 12392 != 9503 + 483 + 847 + 1548 = 12381 (diff=+11)
+  Line 52 (MEMPHIS, TENN.-ARK.-MISS.): private_total: 4567 != 3913 + 34 + 36 + 574 = 4557 (diff=+10)
+  Line 58 (MIAMI, FLA.): private_valuation: 919818 != 453514 + 43761 + 24743 + 398202 = 920220 (diff=-402)
+
+1979\pages_25_26.json:
+  Line 2 (RICHMOND): private_total: 353 != 186 + 0 + 0 + 164 = 350 (diff=+3)
+  Line 3 (OUTSIDE CENTRAL CITY): private_total: 5797 != 5487 + 26 + 3 + 284 = 5800 (diff=-3)
+  Line 61 (INSIDE CENTRAL CITIES.): private_valuation: 168576 != 43036 + 16302 + 13701 + 95535 = 168574 (diff=+2)
+
+======================================================================
+SUMMARY
+======================================================================
+  Total files scanned: 189
+  Total rows: 11594
+  Empty files: 0
+  Files with errors: 72
+  Total validation errors: 137

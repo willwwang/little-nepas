@@ -228,7 +228,7 @@ def extract_page_pair(pdf_path: Path, page1: int, page2: int) -> list[dict]:
             contents=[EXTRACTION_PROMPT, uploaded_file],
             config=types.GenerateContentConfig(
                 temperature=0.0,
-                max_output_tokens=32768,
+                max_output_tokens=65536,
                 response_mime_type="application/json",
                 response_schema=ExtractionResult,
             )
