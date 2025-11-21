@@ -10,3 +10,8 @@ dependencies = [
     "pypdf>=6.3.0",
     "python-dotenv>=1.2.1",
 ]
+
+[dependency-groups]
+dev = [
+    "ipykernel>=7.1.0",
+]

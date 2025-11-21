@@ -11,6 +11,8 @@
   - 1979\pages_27_28.json: no rows
   - 1978\pages_23_24.json: misinterpreted private structures as public permits
 
+## Manual correction
+
 
 # To-dos
 
