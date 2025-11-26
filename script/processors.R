@@ -46,3 +46,11 @@ add_smsa_indicators = function(bps_cleaned) {
     )
   return(bps)
 }
+
+custom_theme = function() {
+  theme_bw() +
+    theme(
+      legend.position = "bottom"
+    )
+}
+

@@ -27,15 +27,15 @@
     "private_2_units": "- ",
     "private_3_4_units": "- ",
     "private_5plus_units": "20",
-    "public_units": "(X)",
-    "private_structures": "(X)",
+    "public_units": "-",
+    "private_structures": "3",
     "total_valuation": "849",
     "private_valuation": "849",
     "private_1_unit_val": "793",
-    "private_2_units_val": "(X)",
-    "private_3_4_units_val": "(X)",
+    "private_2_units_val": "-",
+    "private_3_4_units_val": "-",
     "private_5plus_units_val": "57",
-    "public_valuation": "(X)"
+    "public_valuation": "-"
   },
   {
     "line_number": "3",
